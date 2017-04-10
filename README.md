@@ -19,6 +19,10 @@
 
 <iframe width="554.2601078167118" height="345.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1IiSdQwNaB51xkVnd3RNxQhxLu0t_4nU2CvaYq0BD8Jk/pubchart?oid=1385958942&amp;format=interactive"></iframe>
 
+# This scatter chart shows the cost of dwelling and the median age of various neighbourhoods in Vancouver.
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1IiSdQwNaB51xkVnd3RNxQhxLu0t_4nU2CvaYq0BD8Jk/pubchart?oid=439951303&amp;format=interactive"></iframe>
+
 # All data was obtained online through the City of Vancouver website. Their file names are: CensusLocalAreaProfile2001.xls, CensusLocalAreaProfile2006.xls, and CensusLocalAreaProfile2011.xls. Thus, you can download the data and make your own charts and maps!
 # The Vancouver local census is expected to be released in the 3rd quarter of 2017.
 
