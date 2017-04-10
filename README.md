@@ -25,6 +25,6 @@
 <iframe width="943" height="570.4124999999999" seamless frameborder="0" scrolling="no" src="https://public.tableau.com/views/VancouverMedianAgeandDwelling/Sheet1?:embed=y&:display_count=yes"></iframe>
 
 # All data was obtained online through the City of Vancouver website. Their file names are: CensusLocalAreaProfile2001.xls, CensusLocalAreaProfile2006.xls, and CensusLocalAreaProfile2011.xls. Thus, you can download the data and make your own charts and maps!
-# The 2016 Vancouver local census is expected to be released in the 3rd quarter of 2017.
+# The 2016 census is expected to be released in the 3rd quarter of 2017.
 
 # What I've learned from this course: Skills in searching for data, best methods to display (visualize) the data, learning about geojson, leaflet, github, Google Sheets, etc and how all these play together in terms of data visualization and open source mapping.
