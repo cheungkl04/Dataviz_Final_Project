@@ -1,4 +1,4 @@
-# Vancouver, Canada has always been ranked in the top 5 best places to live in the world. 
+# Vancouver, Canada has consistently rank in the top 5 best places to live in the world. 
 # Thus, many young people around the world move to Vancouver for school, work, working holiday, migration, and many other reasons. 
 # As a result, we want to know where the young people are living. Thus, I've created a map showing where the highest population growth has been in the last 10 years, along with a chart showing the age composition of each neighbourhoods in the city.
 
